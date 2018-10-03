@@ -7,6 +7,7 @@ public class TestPrint {
 		System.out.print("Hello Git");
 		
 		// Test 1
+		// test 2
 		
 	}
 }
